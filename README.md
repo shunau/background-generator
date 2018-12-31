@@ -1,2 +1,2 @@
 # background-generator
-Use CSS Gradient to background color
+Use CSS Gradient to generate gradient background color
